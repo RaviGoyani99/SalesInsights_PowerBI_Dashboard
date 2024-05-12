@@ -20,7 +20,7 @@ The problem was that all thses thing happening is verbal and these was mo proof 
 <img width="670" alt="Profit_Analysis_Dash 2" src="https://github.com/RaviGoyani99/SalesInsights_PowerBI_Dashboard/assets/71126547/91479d7c-0894-4943-ac2a-466f78d9e906">
 
 - Performance_Analysis_Dash 3
-- <img width="671" alt="Performance_Analysis_Dash 3" src="https://github.com/RaviGoyani99/SalesInsights_PowerBI_Dashboard/assets/71126547/4a4149a0-4e31-4d94-bf87-fef14d628b6b">
+<img width="671" alt="Performance_Analysis_Dash 3" src="https://github.com/RaviGoyani99/SalesInsights_PowerBI_Dashboard/assets/71126547/4a4149a0-4e31-4d94-bf87-fef14d628b6b">
 
 
 # Tools, Software and Libraries :
