@@ -16,8 +16,10 @@ The problem was that all thses thing happening is verbal and these was mo proof 
 - Sales_Insights_Dash (Page 1)
 <img width="668" alt="Sales_Insights_Dash 1" src="https://github.com/RaviGoyani99/SalesInsights_PowerBI_Dashboard/assets/71126547/925c280d-0fac-43cc-a25b-bc6d49482bf6">
 
+
 - Profit_Analysis_Dash (Page 2)
 <img width="670" alt="Profit_Analysis_Dash 2" src="https://github.com/RaviGoyani99/SalesInsights_PowerBI_Dashboard/assets/71126547/91479d7c-0894-4943-ac2a-466f78d9e906">
+
 
 - Performance_Analysis_Dash (Page 3)
 <img width="671" alt="Performance_Analysis_Dash 3" src="https://github.com/RaviGoyani99/SalesInsights_PowerBI_Dashboard/assets/71126547/4a4149a0-4e31-4d94-bf87-fef14d628b6b">
