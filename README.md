@@ -1,8 +1,5 @@
 # SalesInsights_PowerBI_Dashboard
 
-
-<img width="668" alt="Sales_Insights_Dash 1" src="https://github.com/RaviGoyani99/SalesInsights_PowerBI_Dashboard/assets/71126547/b294ecea-c386-4900-9d06-ecf39ff6d05a">
-
 # Problem Statement :
 In this project performed India based hardware company sales insights - A Data Analysis project.
 
