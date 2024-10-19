@@ -23,7 +23,7 @@ Sales Quantity by Markets: Another bar chart shows sales quantities, with Delhi 
 Top Customer and Product Analysis: Pie charts display the distribution of revenue among top customers and products. Electricalsara Stores are the top customer, and Amazon Echo is the top product.
 Revenue Trend: A line chart illustrates the revenue trend over time, providing a historical view of performance.
 
-# Performance_Analysis_Dashboard(Page 2): 
+# Profit_Analysis_Dashboard(Page 2): 
 <img width="670" alt="Profit_Analysis_Dash 2" src="https://github.com/RaviGoyani99/SalesInsights_PowerBI_Dashboard/assets/71126547/91479d7c-0894-4943-ac2a-466f78d9e906">
 
 Revenue Contribution % by Total Market: This section shows the percentage of total revenue contributed by different markets, with Bhubaneshwar at 10.5%.
@@ -31,7 +31,7 @@ Revenue-Profit Trend: The graph shows monthly revenue and profit margin trends f
 Top Customers: A table lists the top customers along with their revenue, revenue contribution percentage, profit margin contribution, and profit margin percentage.
 Profit Target: A gauge visual indicates the current profit margin against the target, helping to track progress towards financial goals.
 
-# Profit_Analysis_Dashboard(Page 3):
+# Performance_Analysis_Dashboard(Page 3):
 <img width="671" alt="Performance_Analysis_Dash 3" src="https://github.com/RaviGoyani99/SalesInsights_PowerBI_Dashboard/assets/71126547/4a4149a0-4e31-4d94-bf87-fef14d628b6b">
 
 Revenue and Profit Metrics: Displays overall revenue of ₹142M, sales quantity of 350K, and total profit margin of ₹2M.
